@@ -64,9 +64,9 @@ The objective of this project is to:
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](Pizza_Sales_Home.png)
+![Pizza Sales Dashboard](Pizza_sales_analysis_page1.png)
 
-![Best Worst Sellers](Pizza_Best_Worst_Sellers.png)
+![Best Worst Sellers](Pizza_sales_analysis_page2.png)
 
 ## 💡 Skills Demonstrated
 
